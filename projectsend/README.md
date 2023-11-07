@@ -88,16 +88,4 @@ If you want to help with development, you will need to do a few things via the c
 1. Download the npm and composer dependencies with the commands ````npm install```` and ````composer update````
 1. Run the default gulp task simply with ````gulp```` to compile the main CSS and JS assets files.
 
-## How to join the project
-
-Questions, ideas?
-
-Send your message to contact@projectsend.org or join us on our [Facebook page](https://www.facebook.com/projectsend/)
-
-ProjectSend is licensed under [GNU GPL v2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-
-## Change log
-
-[Available at the official site](http://www.projectsend.org/change-log/)
-
 
